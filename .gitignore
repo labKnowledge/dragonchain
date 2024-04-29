@@ -12,6 +12,7 @@ coverage.xml
 .direnv
 .venv
 venv
+env
 
 # Installer logs
 pip-log.txt
